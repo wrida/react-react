@@ -1,0 +1,31 @@
+#address{
+    color: brown;
+    font-size: 50px;
+    background-color:rgb(245, 243, 241);
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    border-color: blue;
+
+}
+#full{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(245, 243, 241);
+    display: flex;
+    padding-top: 150px;
+    padding-left: 250px;
+}
+#profile{
+    background-color:rgb(245, 243, 241);
+    padding-top: top 150px;
+    padding-left: 300px;
+    display: flex;
+    padding: right 300px;
+    
+}
+div{
+    background-color:#d7dce2;
+}
